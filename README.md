@@ -6,7 +6,7 @@
 <h3>What I'm Working On:</h3>
 <p>1. DSA Mastery: 100 Days of Code challenge focusing on data structures and algorithms.</p>
 <p>2. PMS: Creating a patient management system for hospitals.</p>
-<p>3. OSC: Hacktober-fest and GSOC Extended Contribution</p>
+<p>3. OSC: Hacktober-fest and GSOC Extended Open Source Contribution</p>
 
 <h3 align="left">I'm always looking to connect with fellow tech enthusiasts, so feel free to reach out!</h3>
 
