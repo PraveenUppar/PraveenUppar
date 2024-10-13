@@ -4,9 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
-<a href="https://instagram.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="none" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="none" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/none" target="https://www.linkedin.com/in/praveen-uppar-5b0565277/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/none" target="https://leetcode.com/u/praveenuppar718/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="none" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
