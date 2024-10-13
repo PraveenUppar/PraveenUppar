@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Uppar</h1>
 <h2 align="center">I’m a deep, passionate individual in tech, who believes in learning and delivering services through technology.</h2>
 <h2 align="center">"Don't be a User be a Developer"</h2>
-<h3>Check Out my LinkedIn Post</h3>
+
 <h3>What I'm Working On:</h3>
 <p>1. DSA Mastery: 100 Days of Code challenge focusing on data structures and algorithms.</p>
 <p>2. PMS: Creating a patient management system for hospitals.</p>
