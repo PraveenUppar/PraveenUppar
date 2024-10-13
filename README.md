@@ -9,7 +9,6 @@
 <p>3. OSC: Hacktober-fest and GSOC Extended Contribution</p>
 
 <h3 align="left">I'm always looking to connect with fellow tech enthusiasts, so feel free to reach out!</h3>
-[LinkedIn Post Title](https://www.linkedin.com/feed/update/urn:li:activity:7250858041120608256/)
 
 <p align="left">
 <a href="https://linkedin.com/in/none" target="https://www.linkedin.com/in/praveen-uppar-5b0565277/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="none" height="30" width="40" /></a>
