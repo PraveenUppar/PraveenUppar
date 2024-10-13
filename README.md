@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/PraveenUppar/PraveenUppar/main/PersonalLinkedInBanner3.png)
+![Banner](https://github.com/PraveenUppar/PraveenUppar/blob/289c408318e8664d45c1fd3a6e626f3c5538e9c0/Personal%20LinkedIn%20Banner%203.png)
 <h1 align="center">Hi 👋, I'm Praveen Uppar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
