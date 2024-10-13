@@ -1,12 +1,11 @@
 ![Banner](https://github.com/PraveenUppar/PraveenUppar/blob/289c408318e8664d45c1fd3a6e626f3c5538e9c0/Personal%20LinkedIn%20Banner%203.png)
 <h1 align="center">Hi 👋, I'm Praveen Uppar</h1>
-<h2 align="center">I’m a deep, passionate individual in tech, who believes in learning and delivering services through technology.</h2>
+<h2 align="center">A deep, passionate individual in tech, who believes in learning and delivering services through technology.</h2>
 <h2 align="center">"Don't be a User be a Developer"</h2>
 
-<h3>What I'm Working On:</h3>
-<p>1. DSA Mastery: 100 Days of Code challenge focusing on data structures and algorithms.</p>
-<p>2. PMS: Creating a patient management system for hospitals.</p>
-<p>3. OSC: Hacktober-fest and GSOC Extended Open Source Contribution</p>
+![](https://github-readme-stats.vercel.app/api?username=PraveenUppar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PraveenUppar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenUppar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h3 align="left">I'm always looking to connect with fellow tech enthusiasts, so feel free to reach out!</h3>
 
