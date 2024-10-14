@@ -3,9 +3,11 @@
 <h2 align="center">A deep, passionate individual in tech, who believes in learning and delivering services through technology.</h2>
 <h2 align="center">"Don't be a User be a Developer"</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=PraveenUppar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PraveenUppar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenUppar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenUppar&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 47%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenUppar&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" style="width: 45%;" />
+</div>
+
 
 <h3 align="left">I'm always looking to connect with fellow tech enthusiasts, so feel free to reach out!</h3>
 
