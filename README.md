@@ -14,9 +14,6 @@
 <h2 align="center">⏬ Check Out my Latest LinkedIn Posts ⏬</h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 40px;">
-  <a href="https://www.linkedin.com/posts/praveen-uppar-5b0565277_workhardsuccessisyours-vithackathon-studentlife-activity-7170852526068617216-gFzN?utm_source=share&utm_medium=member_desktop">
-    <img src="https://github.com/PraveenUppar/PraveenUppar/blob/c03d41f3368e974b6660a2aa091ffe283c7ef811/post1.png" alt="LinkedIn Post" width="308"/>
-  </a>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7228767051555745792/">
     <img src="https://github.com/PraveenUppar/PraveenUppar/blob/44468b2fdecf870cb899c3cb045b7bb52ae7dfa9/post2.jpg" alt="LinkedIn Post" width="300"/>
   </a>
