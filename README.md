@@ -1,12 +1,11 @@
 
 <h1 align="center">👋Hi, I'm Pavi (Praveen Uppar)!</h1>
 <h2 align="center">Full-Stack Developer | AI Enthusiast | Tech Lead @ VITB MUN | Hackathons | Open Source Contributor | Cloud Computing | DevOps  </h2>
-<h3 align="center">Don't be a user when you can be a Developer</h3>
+<h3 align="center">"Don't be a user when you can be a Developer"</h3>
 
 <h2 align="center">👇 GitHub Stats 👇 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenUppar&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api?username=PraveenUppar&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="45%" />
 </div>
 
