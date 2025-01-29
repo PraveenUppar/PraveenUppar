@@ -1,4 +1,3 @@
-![Banner](https://github.com/PraveenUppar/PraveenUppar/blob/289c408318e8664d45c1fd3a6e626f3c5538e9c0/Personal%20LinkedIn%20Banner%203.png)
 
 <h1 align="center">Hi 👋, I'm Praveen Uppar</h1>
 <h2 align="center">"Don't be a User be a Developer"</h2>
