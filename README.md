@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Praveen Uppar</h1>
-<h2 align="center">"Don't be a User be a Developer"</h2>
+<h1 align="center">👋Hi, I'm Pavi (Praveen Uppar)!</h1>
+<h2 align="center">Full-Stack Developer | AI Enthusiast | Tech Lead @ VITB MUN | Hackathons | Open Source Contributor | Cloud Computing | DevOps  </h2>
+<h3 align="center">Don't be a user when you can be a Developer</h3>
 
 <h2 align="center">👇 GitHub Stats 👇 </h2>
 
